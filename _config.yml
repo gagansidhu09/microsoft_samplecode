@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+
+basic.forever(function () {
+    basic.showNumber(7)
+})
